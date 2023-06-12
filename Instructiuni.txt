@@ -1,2 +1,4 @@
 
 ana are mere
+
+am creat linie noua in from_local
